@@ -2,6 +2,8 @@
 
 ## Master (unreleased)
 
+* Add autocorrect support for `SingleArgumentMessageChain` cop. ([@bquorning][])
+
 ## 1.9.0 (2016-12-29)
 
 * Add `MessageSpies` cop for enforcing consistent style of either `expect(...).to have_received` or `expect(...).to receive`, intended as a replacement for the `MessageExpectation` cop. ([@bquorning][])
